@@ -10,15 +10,3 @@ This app was created using [Microsoft's new Blazor technology](https://dotnet.mi
 
 ### Results using city name
 ![Results using city name](screenshots/results.png?raw=true "Results using city name")
-
-### Results using city name and country code
-![Results using city name and country code](screenshots/results2.png?raw=true "Results using city name and country code")
-
-### Error if city cannot be found
-![Error if city cannot be found](screenshots/error.png?raw=true "Error if city cannot be found")
-
-### Microsoft's Blazor with C#
-![Microsoft's Blazor with C#](screenshots/blazor.png?raw=true "Microsoft's Blazor with C#")
-
-### OpenWeather API
-![OpenWeather API](screenshots/openweather_api.png?raw=true "OpenWeather API")
