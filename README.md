@@ -8,5 +8,5 @@ This app was created using [Microsoft's new Blazor technology](https://dotnet.mi
 ### Main Page
 ![Main Page](screenshots/main.png?raw=true "Main Page")
 
-### Results using city name
+### Results
 ![Results using city name](screenshots/results.png?raw=true "Results using city name")
